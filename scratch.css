@@ -1,0 +1,24 @@
+body{
+    background-color:navy;
+    color: white;
+}
+a{
+    color: white;
+}
+.ita{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.common{
+    background-color: gray;
+    border: 2px solid white;
+    position: absolute;
+}
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+}
+.footer{
+    left: 5px;
+    right: 5px;
+}
